@@ -1,18 +1,18 @@
-﻿# рџђЌ Gorgona One | Eagleeye
+# 🐍 Gorgona One | EagleEye
 
-**РЎРѕР·РґР°С‚РµР»СЊ:** РђР»РµРєСЃРµР№ РђР»РµРєСЃР°РЅРґСЂРѕРІ
-**РџСЂРѕРµРєС‚:** Gorgona One AI
-
-**РЎРѕР·РґР°С‚РµР»СЊ:** РђР»РµРєСЃРµР№ РђР»РµРєСЃР°РЅРґСЂРѕРІ
-**РџСЂРѕРµРєС‚:** Gorgona One AI
+**Создатель:** Алексей Александров  
+***Проект:** Gorgona One AI  
 
 **Curated and optimized by Gorgona One.**  
 *This tool is part of the exclusive Gorgona One OSINT toolkit.*
 
-## рџљЂ Overview
-Eagleeye is a powerful OSINT utility included in the Gorgona One toolset.
+## 🚚 Описание (Overview)
+
+🇵🇷 Инструмент для поиска людей по их лицам в социальных сетях с использованием алгоритмов!�аспознавания лиц.
+🇵🇧 A tool to track down people across social media using facial recognition algorithms.
 
 ---
+
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
